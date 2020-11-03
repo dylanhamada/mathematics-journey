@@ -14,4 +14,8 @@ This project is ongoing and will only be completed upon completion of the Khan A
 
 I am currently working on [Algebra Unit 1: Algebra Foundations](https://www.khanacademy.org/math/algebra).
 
-### Completed Sections
+My current progress: 
+
+![Khan Academy Progress](progress-11-02-20.png)
+
+![Khan Academy Progress](course-progress-11-02-20.png)
