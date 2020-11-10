@@ -6,7 +6,7 @@ A repo to track my progress in mathematics from Algebra to Calculus and beyond o
 
 As part of my journey to become a web developer, I recognize the need to improve my understanding of higher-level mathematics. In pursuit of this goal, I am taking a systematic approach by completing the high school and post-secondary mathematics curriculum on Khan Academy.
 
-In this repo I will track my lesson progress, as well as provide links to scans of important exercises completed on paper.
+In this repo I will track my lesson progress, as well as provide links to scans of important exercises completed on paper. These can be found in the relevant unit folders (eg. Algebra-1).
 
 ## Project Status
 
@@ -16,6 +16,4 @@ I am currently working on [Algebra Unit 1: Algebra Foundations](https://www.khan
 
 My current progress: 
 
-![Khan Academy Progress](progress-11-02-20.png)
-
-![Khan Academy Progress](course-progress-11-02-20.png)
+![Khan Academy Progress](course-progress.png)
