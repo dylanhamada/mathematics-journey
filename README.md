@@ -10,7 +10,7 @@ As part of my journey to become a web developer, I recognize the need to improve
 
 This project is ongoing and will only be completed upon completion of the Khan Academy curriculum.
 
-I am currently working on [Algebra Unit 1: Solving Equations and Inequalities](https://www.khanacademy.org/math/algebra).
+I am currently working on [Algebra 1: Solving Equations and Inequalities](https://www.khanacademy.org/math/algebra).
 
 My current progress: 
 
